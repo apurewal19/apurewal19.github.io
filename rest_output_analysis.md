@@ -4,7 +4,9 @@
 
 ### View Interactive Dashboard on Tableau Public:
 
-https://public.tableau.com/app/profile/amritpal.purewal/viz/RestaurantOutputAnalysis/Orders
+<a href="https://public.tableau.com/app/profile/amritpal.purewal/viz/RestaurantOutputAnalysis/Orders">Tableau Public Portfolio</a>
+
+<img src="images/rest_output_analysis_dashboard.png" />
 
 ### Dashboard Features
 
