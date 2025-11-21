@@ -1,35 +1,24 @@
 ## Portfolio
 
----
+Welcome to my portfolio! I come from a background in Data Analytics and have extensive skills in tools such as Python, SQL, Tableau and Excel.
+I have a strong passion for exploratory data analysis (EDA) and love coming up actionable insights to help support data-driven solutions.
+Based off of the data I find I can also develop dashboards to help present my findings for business needs.
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Please feel free to explore my portfolio and reach out if I seem like a desired fit.
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Diabetes Prediction Model Analysis](/diabetes.md)
+<img src="images/diabetes_prediction_model_dashboard.png"/>
 
 ---
 
-
-
+[Restaurant Output Analysis](/rest_output_analysis.md)
+<img src="images/rest_output_analysis_dashboard.png"/>
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+[MLB Payroll Analysis Dashboard](https://public.tableau.com/views/MLBPayrollAnalysis_17384470881290/MLBPayrollAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<img src="images/mlb_payroll_analysis_dash.png"/>
+
+---
