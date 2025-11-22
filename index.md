@@ -9,21 +9,33 @@ Please feel free to explore my portfolio and reach out if I seem like a desired 
 ---
 
 [Diabetes Prediction Model Analysis](/diabetes.md)
+
+Tools Used: Python (pandas, numpy, scikit-learn, matplotlib)
+
 <img src="images/diabetes_prediction_model_dashboard.png"/>
 
 ---
 
 [Restaurant Output Analysis](/rest_output_analysis.md)
+
+Tools Used: SQL, Excel, Tableau, DFD Diagrams
+
 <img src="images/rest_output_analysis_dashboard.png"/>
 
 ---
 
 [MLB Payroll Analysis Dashboard](https://public.tableau.com/views/MLBPayrollAnalysis_17384470881290/MLBPayrollAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+Tools Used: Tableau, Excel
+
 <img src="images/mlb_payroll_analysis_dash.png"/>
 
 ---
 
 [Visible Minority Comparison Dashboard](https://public.tableau.com/shared/DW559RMHD?:display_count=n&:origin=viz_share_link)
+
+Tools Used: Tableau, Excel
+
 <img src="images/visible_minorities_dashboard.png"/>
 
 ---
