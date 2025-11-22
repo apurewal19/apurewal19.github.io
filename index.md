@@ -22,3 +22,8 @@ Please feel free to explore my portfolio and reach out if I seem like a desired 
 <img src="images/mlb_payroll_analysis_dash.png"/>
 
 ---
+
+[Visible Minority Comparison Dashboard](https://public.tableau.com/shared/DW559RMHD?:display_count=n&:origin=viz_share_link)
+<img src="images/visible_minorities_dashboard.png"/>
+
+---
