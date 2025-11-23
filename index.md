@@ -18,7 +18,7 @@ Tools Used: Python (pandas, numpy, scikit-learn, matplotlib)
 
 [Restaurant Output Analysis](/rest_output_analysis.md)
 
-Tools Used: SQL, Excel, Tableau, DFD Diagrams
+Tools Used: SQL, Excel, Tableau, Data Flow Diagrams
 
 <img src="images/rest_output_analysis_dashboard.png"/>
 
