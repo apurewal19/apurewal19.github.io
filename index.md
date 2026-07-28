@@ -8,6 +8,12 @@ Please feel free to explore my portfolio and reach out if I seem like a desired 
 
 ---
 
+[SQL Layoffs Data Analysis](/layoffs.md)
+
+Tools Used: SQL (CTEs, window functions, JOIN-based self-updates, aggregate functions, date functions), Excel
+
+---
+
 [Diabetes Prediction Model Analysis](/diabetes.md)
 
 Tools Used: Python (pandas, numpy, scikit-learn, matplotlib)
