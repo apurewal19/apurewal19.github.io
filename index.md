@@ -1,8 +1,7 @@
 ## Portfolio
 
-Welcome to my portfolio! I come from a background in Data Analytics and have extensive skills in tools such as Python, SQL, Tableau and Excel.
-I have a strong passion for exploratory data analysis (EDA) and love coming up actionable insights to help support data-driven solutions.
-Based off of the data I find I can also develop dashboards to help present my findings for business needs.
+Welcome to my portfolio! I'm a Data Analytics professional skilled in Python, SQL, Tableau, Power BI, and Excel, with a passion for exploratory data analysis and turning raw data into actionable business insights.
+I enjoy the full analytics workflow — from cleaning and querying data, to uncovering trends through EDA, to building dashboards that make findings clear and usable for business decision-making.
 
 Please feel free to explore my portfolio and reach out if I seem like a desired fit.
 
@@ -22,7 +21,7 @@ Tools Used: Python (pandas, numpy, scikit-learn, matplotlib)
 
 ---
 
-[Restaurant Output Analysis](/rest_output_analysis.md)
+**Project Link:** [Restaurant Output Analysis](/rest_output_analysis.md)
 
 Tools Used: SQL, Excel, Tableau, Data Flow Diagrams
 
@@ -30,7 +29,7 @@ Tools Used: SQL, Excel, Tableau, Data Flow Diagrams
 
 ---
 
-[MLB Payroll Analysis Dashboard](https://public.tableau.com/views/MLBPayrollAnalysis_17384470881290/MLBPayrollAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**Project Link:** [MLB Payroll Analysis Dashboard](https://public.tableau.com/views/MLBPayrollAnalysis_17384470881290/MLBPayrollAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Tools Used: Tableau, Excel
 
@@ -38,7 +37,7 @@ Tools Used: Tableau, Excel
 
 ---
 
-[Visible Minority Comparison Dashboard](https://public.tableau.com/shared/DW559RMHD?:display_count=n&:origin=viz_share_link)
+**Project Link:** [Visible Minority Comparison Dashboard](https://public.tableau.com/shared/DW559RMHD?:display_count=n&:origin=viz_share_link)
 
 Tools Used: Tableau, Excel
 
