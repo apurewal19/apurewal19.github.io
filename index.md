@@ -7,6 +7,14 @@ Please feel free to explore my portfolio and reach out if I seem like a desired 
 
 ---
 
+**Project Link:** [Weather Demand Planner](/demand_planner.md)
+
+Tools Used: Python (Pandas, requests, pytrends), MySQL (CTEs, joins, views, aggregate functions), Power BI (DAX, Power Query)
+
+<img src="images/dashboard_static_image.png"/>
+
+---
+
 **Project Link:** [SQL Layoffs Data Analysis](/layoffs.md)
 
 Tools Used: SQL (CTEs, window functions, JOIN-based self-updates, aggregate functions, date functions), Excel
