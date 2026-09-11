@@ -19,6 +19,8 @@ Tools Used: Python (Pandas, requests, pytrends), MySQL (CTEs, joins, views, aggr
 
 Tools Used: SQL (CTEs, window functions, JOIN-based self-updates, aggregate functions, date functions), Excel
 
+<img src="images/dashboard_layoffs_static.png">
+
 ---
 
 **Project Link:** [Diabetes Prediction Model Analysis](/diabetes.md)
