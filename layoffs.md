@@ -2,6 +2,10 @@
 
 Exploratory data analysis of global tech layoffs (March 2020 – March 2023), built entirely in MySQL. The project covers full data cleaning of a messy real-world dataset followed by an EDA layer using CTEs and window functions to surface trends by company, industry, country, and time.
 
+## Dashboard
+
+![Dashboard Screenshot](images/dashboard_layoffs_static.png)
+
 ## Dataset
 
 - **Size:** ~2,360 raw records, 9 columns (`company`, `location`, `industry`, `total_laid_off`, `percentage_laid_off`, `date`, `stage`, `country`, `funds_raised_millions`)
