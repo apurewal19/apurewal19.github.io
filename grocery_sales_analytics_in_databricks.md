@@ -360,31 +360,7 @@ Kaggle CSVs -> Unity Catalog volume -> Delta tables -> Gold Views -> Dashboard
 
 Star schema with `sales` as the fact table. Primary and foreign keys are declared in `00_schema_constraints.sql/schema_constraints.sql`. Databricks does not enforce these constraints. They document the relationships and drive the ER diagram in Catalog Explorer.
 
-```mermaid
-erDiagram
-    COUNTRIES ||--o{ CITIES : has
-    CITIES ||--o{ CUSTOMERS : located_in
-    CITIES ||--o{ EMPLOYEES : located_in
-    CATEGORIES ||--o{ PRODUCTS : classifies
-    CUSTOMERS ||--o{ SALES : places
-    EMPLOYEES ||--o{ SALES : handles
-    PRODUCTS ||--o{ SALES : sold_in
-
-    COUNTRIES { int countryid PK }
-    CITIES { int cityid PK
-             int countryid FK }
-    CUSTOMERS { int customerid PK
-                int cityid FK }
-    EMPLOYEES { int employeeid PK
-                int cityid FK }
-    CATEGORIES { int categoryid PK }
-    PRODUCTS { int productid PK
-               int categoryid FK }
-    SALES { int salesid PK
-            int salespersonid FK
-            int customerid FK
-            int productid FK }
-```
+![Grocery Sales ERD](/images/grocery_sales_erd.png)
 
 ## Data quality checks
 
