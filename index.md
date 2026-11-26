@@ -7,6 +7,14 @@ Please feel free to explore my portfolio and reach out if I seem like a desired 
 
 ---
 
+**Project Link:** [Grocery Sales in Databricks](/grocery_sales_analytics_in_databricks.md)
+
+Tools Used: SQL, PySpark, Databricks, Unity Catalog, Delta Lake
+
+<img src="images/Grocery_Sales_Dashboard.png"/>
+
+---
+
 **Project Link:** [Weather Demand Planner](/demand_planner.md)
 
 Tools Used: Python (Pandas, requests, pytrends), MySQL (CTEs, joins, views, aggregate functions), Power BI (DAX, Power Query)
